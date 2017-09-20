@@ -1,0 +1,2 @@
+python_csv.py 是爬取小说的章节目录名称和URL，保存为csv文件
+python_json.py是爬取小树的章节目录名称和URL，保存为json文件
