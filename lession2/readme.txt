@@ -1,0 +1,3 @@
+demo1是通过正则表达式来解析糗百网页，下载图片
+demo2是通过beautifulsoup来解析糗百网页下载图片
+demo3是通过xpath来解析糗百网页下载图片
